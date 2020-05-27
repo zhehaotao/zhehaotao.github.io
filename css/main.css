@@ -1,0 +1,16 @@
+.container {
+  font-family: "PT Serif";
+}
+
+.container a {
+  color: gray;
+}
+
+.name {
+  font-family: "Bree Serif";
+  font-size: 2rem;
+}
+
+.head {
+  margin-bottom: 1rem;
+}
