@@ -2,23 +2,23 @@
      <h1>陶浙颢</h1>
      <div>
          <span>
-             <img src="../assets/envelope-solid.svg" width="18px">
+             <img src="../assets/envelope.svg" width="18px">
              zhtao@ucdavis.edu
          </span>
          ·
          <span>
-             <img src="../assets/github-brands.svg" width="18px">
+             <img src="../assets/github.svg" width="18px">
              <a href="https://github.com/zhehaotao">zhehaotao</a>
          </span>
      </div>
  </center>
 
 
- ## <img src="../assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="../assets/info-circle.svg" width="30px"> 个人信息 
 
  - 性别：男；出生年月：1998.01
 
-## <img src="../assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="../assets/graduation-cap.svg" width="30px"> 教育经历
 
 浙江大学  本科                                                                                                                                 2016.09-2020.07
 
@@ -28,7 +28,7 @@
 
 * 修读课程：数据结构基础，计算机网络，算法设计；GPA：3.67/4
 
-## <img src="../assets/tools-solid.svg" width="30px"> 技能清单
+## <img src="../assets/tools.svg" width="30px"> 技能清单
 
 - 熟悉HTML和CSS，能根据设计原稿完成网页的构建。
 - 熟悉JavaScript以及ES6标准的新特性，能写出清晰的代码。  
@@ -39,7 +39,7 @@
 - 拥有良好的英语阅读能力（托福100），熟悉使用Google、Stack Overflow和官方文档解决问题。 
 - 拥有优秀的自学能力，能迅速掌握新技术，爱好自学新技术。  
 
-## <img src="../assets/project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="../assets/project-diagram.svg" width="30px"> 项目经历
 
 * [E-commerce Shop](https://e-commerce-world.herokuapp.com/)                                                        https://github.com/zhehaotao/E-commerce-Shop-App
 
